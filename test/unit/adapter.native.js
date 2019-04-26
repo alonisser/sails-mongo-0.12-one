@@ -27,7 +27,7 @@ describe('adapter', function() {
         assert(!err);
 
         // Attempt to insert a document
-        collection.insert({hello: 'world'}, {w:1}, function(err, objects) {
+        collection.insertOne({hello: 'world'}, {w:1}, function(err, objects) {
           assert(!err);
 
           // check that the record was actually inserted
