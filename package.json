@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "captains-log": "^1.0.2",
-    "mocha": "3.0.2",
+    "mocha": "6.1.4",
     "waterline-adapter-tests": "~0.12.1"
   },
   "waterlineAdapter": {
