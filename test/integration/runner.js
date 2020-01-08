@@ -71,6 +71,7 @@ new TestRunner({
     database: process.env.WATERLINE_ADAPTER_TESTS_DATABASE || 'sails-mongo',
     port: process.env.WATERLINE_ADAPTER_TESTS_PORT || 27017,
     schema: true,
+    useUnifiedTopology:true,
     poolSize: 1
   },
 
