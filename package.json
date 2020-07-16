@@ -45,7 +45,7 @@
   "dependencies": {
     "@sailshq/lodash": "^3.10.2",
     "async": "2.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongodb": "^3.4.1",
     "validator": "4.5.1",
     "waterline-cursor": "0.0.7",
