@@ -47,7 +47,7 @@
     "async": "2.0.1",
     "lodash": "^4.17.15",
     "mongodb": "^3.4.1",
-    "validator": "4.5.1",
+    "validator": "13.7.0",
     "waterline-cursor": "0.0.7",
     "waterline-errors": "0.10.1"
   },
